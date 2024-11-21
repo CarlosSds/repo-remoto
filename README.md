@@ -1,5 +1,5 @@
 
-# Dio Resumo Git 
+# Dio Resumo Git textos
 
 Curso DIO git e giyhub, comandos e configurações!
 Resumos para auxiliar a inciar repositorios no git e github.📖
