@@ -12,7 +12,7 @@ Resumos para auxiliar a inciar repositorios no git e github.📖
  - [Documentação Git Hub](https://docs.github.com/pt)
 
 
-## Resumos das Aulas
+
 
 
 ```http
